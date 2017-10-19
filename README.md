@@ -1,5 +1,6 @@
 uLeak
 =====
+[![Build Status](https://travis-ci.org/behroozkhorashadi/uLeak.svg?branch=master)](https://travis-ci.org/behroozkhorashadi/uLeak)
 
 A runtime leak detection library for Android.
 
